@@ -48,5 +48,7 @@ This project generates a sales performance dashboard from the **Sample Superstor
 🔒 Security Note
 
   The email and password in the script are placeholders.
+  
   This project is for educational purposes only.
+  
   The dataset used (Sample Superstore Sales) is publicly available.
