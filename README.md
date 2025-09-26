@@ -19,8 +19,11 @@ This project generates a sales performance dashboard from the **Sample Superstor
 
 ## 🚀 How to Run
 1. Clone this repository:
+   git clone https://github.com/NazaarKhalid/Automated_Dashboard.git
+   cd Automated_Dashboard
+
    
-2. Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
@@ -30,7 +33,9 @@ pip install -r requirements.txt
 4. Update the placeholders in the script:
 
 sender_email = "your_email@example.com"
+
 sender_password = "your_app_password"
+
 receiver_email = "receiver_email@example.com"
 
 
