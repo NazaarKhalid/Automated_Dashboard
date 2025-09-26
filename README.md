@@ -7,7 +7,7 @@ This project generates a sales performance dashboard from the **Sample Superstor
 - Computes key KPIs:
   - Total Sales
   - Total Profit
-  - Number of Orders
+  - Products Sold
   - Growth Rate
 - Visualizes data using bar charts, maps and line charts
 - Exports the dashboard as a **html report**
@@ -25,7 +25,7 @@ This project generates a sales performance dashboard from the **Sample Superstor
    cd Automated_Dashboard
 
    
-3. Install dependencies:
+2. Install dependencies:
 
    pip install -r requirements.txt
 
