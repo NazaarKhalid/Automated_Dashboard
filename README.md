@@ -21,6 +21,7 @@ This project generates a sales performance dashboard from the **Sample Superstor
 1. Clone this repository:
    
    git clone https://github.com/NazaarKhalid/Automated_Dashboard.git
+   
    cd Automated_Dashboard
 
    
